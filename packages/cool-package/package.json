@@ -1,0 +1,7 @@
+{
+  "name": "cool-package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Cedric van Putten",
+  "license": "MIT"
+}
